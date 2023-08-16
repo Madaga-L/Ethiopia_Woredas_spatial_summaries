@@ -1,0 +1,67 @@
+,id01,id02,id03,Zone,Wereda,obs2006,obs2008,obs2010,obs2012,obs2014,ADM3_PCODE
+1,tigray,1,6,N.W. Tigray,Atsegede Tsimbela,75,73,61,64,61,ET010105
+2,tigray,2,2,Central Tigray,Ahiferom,74,63,62,66,63,ET010202
+3,tigray,2,7,Central Tigray,Naedei Adet,75,67,69,69,68,ET010209
+4,tigray,2,8,Central Tigray,Kolla Temben,75,72,69,70,65,ET010208
+5,tigray,2,10,Central Tigray,Tanqua Abergele,75,74,73,73,73,ET010210
+6,tigray,3,1,Eastern Tigray,Gulomehada,75,70,66,64,59,ET010301
+7,tigray,3,3,Eastern Tigray,Saesi Tsaedamba,74,72,70,69,71,ET010303
+8,tigray,3,6,Eastern Tigray,Wukro,75,75,73,70,71,ET010309
+9,tigray,3,7,Eastern Tigray,Atsbi Wenberta,99,70,68,68,71,ET010307
+10,tigray,4,2,Southern Tigray,Enderta,50,42,42,41,41,ET010602
+11,tigray,4,7,Southern Tigray,Alamata,75,68,68,64,66,ET010411
+12,tigray,4,8,Southern Tigray,Ofla,75,72,70,66,71,ET010408
+13,amhara,1,3,N. Gonder,Beyeda,50,45,44,43,43,ET030102
+14,amhara,1,4,N. Gonder,Janamora,50,46,45,46,44,ET030103
+15,amhara,1,18,N. Gonder,West Belesa,50,47,43,43,45,ET031116
+16,amhara,2,2,South Gonder,Ebenat,50,41,40,46,42,ET030201
+17,amhara,3,9,North Wollo,Gidan,50,49,44,44,42,ET030303
+18,amhara,3,14,North Wollo,Habru,50,47,45,44,39,ET030308
+19,amhara,4,2,South Wollo,Tena,50,48,48,45,45,ET040813
+20,amhara,4,4,South Wollo,Ambasel,50,47,49,48,50,ET030404
+21,amhara,4,9,South Wollo,Kalu,49,47,44,44,46,ET030407
+22,amhara,4,11,South Wollo,Legambo,50,47,47,44,44,ET030410
+23,amhara,4,12,South Wollo,Sayint,50,48,49,43,43,ET030411
+24,amhara,4,13,South Wollo,Debresina,50,48,47,41,43,ET030527
+25,amhara,4,14,South Wollo,Kelela,50,42,41,40,40,ET030413
+26,amhara,4,17,South Wollo,Were IIu,50,48,47,45,46,ET030415
+27,amhara,5,24,North Shewa,Angolala Tera,50,49,46,49,45,ET030513
+28,amhara,6,3,East Gojjam,Goncha siso Ensie,50,46,45,44,43,ET030603
+29,amhara,10,1,Oromia Zone,Dawa chefa,45,30,31,30,30,ET031001
+30,amhara,10,4,Oromia Zone,Artuma Fursi,50,48,47,43,42,ET031004
+31,oromiya,7,1,East Shewa,Fentale,50,43,47,47,46,ET040701
+32,oromiya,7,2,East Shewa,Boset,50,45,46,19,23,ET040702
+33,oromiya,8,9,Arsi,Ziway Dugda,50,46,46,41,46,ET040806
+34,oromiya,8,14,,,50,3,25,0,0,NA
+35,oromiya,9,2,West Harerghe,Mieso,50,47,46,44,43,ET040901
+36,oromiya,9,7,West Harerghe,Guba Koricha,50,48,45,42,42,ET060202
+37,oromiya,9,8,West Harerghe,Anchar,50,48,49,47,45,ET040906
+38,oromiya,9,10,West Harerghe,Daro Lebu,50,48,50,46,43,ET040909
+39,oromiya,9,11,West Harerghe,Boke,50,49,50,48,46,ET040910
+40,oromiya,10,5,East Harerghe,Jarso ,50,49,48,42,42,ET041002
+41,oromiya,10,6,East Harerghe,Gursum,50,47,47,43,42,ET041003
+42,oromiya,10,7,East Harerghe,Babile,45,42,35,25,25,ET041004
+43,oromiya,10,8,East Harerghe,Fedis,49,47,45,42,42,ET041005
+44,oromiya,10,19,East Harerghe,Golo Oda,50,48,47,47,46,ET041017
+45,oromiya,11,12,Bale,mema Angetu,50,43,44,41,46,ET041112
+46,oromiya,11,18,Bale,Goro,50,46,44,44,46,ET041116
+47,oromiya,11,20,Bale,Seweyna,45,28,40,40,40,ET042105
+48,oromiya,12,7,Borena,Yabelo,50,47,44,44,40,ET041207
+49,oromiya,12,13,Borena,Gelana,50,47,42,44,40,ET042098
+50,snnp,2,3,Hadiya,Badewacho,50,49,49,49,47,NA
+51,snnp,2,4,Hadiya,Soro,50,48,45,48,48,ET070206
+52,snnp,3,1,Kembata Tembaro,Omo Sheleko,50,46,47,48,44,NA
+53,snnp,4,1,Sidama,Shebedino,50,50,47,48,48,ET160001
+54,snnp,4,5,Sidama,Aleta Wendo,50,45,44,43,42,ET160005
+55,snnp,6,2,Wolayita,Boloso Sore,100,96,92,87,76,ET070601
+56,snnp,6,3,Wolayita,Damot Gale,50,47,47,47,47,ET070602
+57,snnp,6,4,Wolayita,Damot Woide,50,37,44,42,46,ET070603
+58,snnp,6,5,Wolayita,Kindo Koisha,50,49,48,48,46,ET070606
+59,snnp,10,5,Gamo Gofa,Kemba,50,49,45,44,43,ET071011
+60,snnp,10,6,Gamo Gofa,Bonke,50,46,46,44,42,ET071014
+61,snnp,10,10,Gamo Gofa,Gofa Zuria,50,49,48,46,43,NA
+62,snnp,10,11,Gamo Gofa,Zala,50,47,48,44,39,ET071503
+63,snnp,13,1,Amaro,Amaro,50,49,47,45,41,ET072102
+64,snnp,14,1,Burji,Burji,50,45,43,43,40,ET072203
+65,snnp,15,1,Konso,Konso,99,94,94,92,84,NA
+66,snnp,21,4,Alaba Special,Alaba,50,47,49,49,49,NA
